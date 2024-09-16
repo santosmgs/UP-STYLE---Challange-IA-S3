@@ -32,3 +32,4 @@ Treinamento do Modelo: Divide os dados em conjunto de treino e teste, ajusta o m
 - Felipe Morais - RM551463
 - João Gabriel - RM 552078
 - Miguel Santos - 551640
+- Ian – RM 550133

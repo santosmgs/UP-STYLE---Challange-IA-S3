@@ -24,6 +24,8 @@ Responsável por carregar os dados e exibir a estrutura inicial.
 <br>
 Treinamento do Modelo: Divide os dados em conjunto de treino e teste, ajusta o modelo de regressão linear, exibe o coeficiente e o intercepto.**
 
+## Link para o Youtube (Explicações detalhadas)
+### https://www.youtube.com/watch?v=wWrzaFS6Y_E
 
 ## Integrantes do Grupo
 

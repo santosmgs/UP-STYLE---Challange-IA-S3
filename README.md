@@ -1,13 +1,32 @@
-<h1 align="center"> UP-STYLE Challange IA Sprint 3</h1>
-<div align="center"> 
-  <p>Essa é a 3 Sprint de IA do Challange da FIAP, utilizamos as seguintes bibliotecas:</p>
-  <img
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpandas.pydata.org%2Fabout%2Fciting.html&psig=AOvVaw1HgOz7HFMFQEZ1SoRnfU-f&ust=1726576092694000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiRp6e7x4gDFQAAAAAdAAAAABAE"
-    alt="Biblioteca 1" width="100">
+<h1> UP-STYLE Challange IA Sprint 3</h1>
+<p>Essa é a 3 Sprint de IA do Challange da FIAP, utilizamos as seguintes bibliotecas:</p>
+<div>
+  <p> -Pandas </p>
+  <p> - Matplotlib </p>
+  <p> - Scikit-Learn </p>
 </div>
+
+## 📁 Início do Projeto
+
+**O código foi realizado no google colab, e ele se inicia no título "Protótipo".**
+
+## 🛠️ Abrir e rodar o projeto
+
+**Não é necessário baixar nenhum arquivo antes apenas rodar o código,**
+**pois o nosso dataframe baixa automaticamente após a execução dele.**
+**Isso possibilita rodar ele sem depender de arquivos.**
+
+## 👨‍💻 Breves Explicações 
+
+### Explicação das Partes:
+**Criação do DataFrame:
+Responsável por carregar os dados e exibir a estrutura inicial.
+<br>
+Treinamento do Modelo: Divide os dados em conjunto de treino e teste, ajusta o modelo de regressão linear, exibe o coeficiente e o intercepto.**
 
 
 ## Integrantes do Grupo
+
 - Felipe Morais - RM551463
 - João Gabriel - RM 552078
 - Miguel Santos - 551640
